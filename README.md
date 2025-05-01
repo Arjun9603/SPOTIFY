@@ -1,4 +1,3 @@
-# SPOTIFY CLONE
 # 🎵 Spotify Clone
 
 A full-featured Spotify clone built to stream music, manage playlists, and mimic the core functionalities of the original Spotify web app. This project is developed for educational purposes.
@@ -30,4 +29,5 @@ A full-featured Spotify clone built to stream music, manage playlists, and mimic
 - Redux / Context API (for state management)
 - Cloudinary / Firebase Storage (for storing media files)
 - Multer (for file uploads)
+
 
